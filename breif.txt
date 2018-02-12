@@ -1,0 +1,6 @@
+12 - java core
+13- sql, git, linux
+14 - selenium , cm tools
+15 - docker,nagios, jenkins
+16-python,html,js
+17- questions
